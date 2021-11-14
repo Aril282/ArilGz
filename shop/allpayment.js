@@ -1,21 +1,21 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY ARIL STORE
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ 2777-70-88102-43586-19
+		• R****
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0838 9574 1114
+		• AR** J*
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 0881 0243 58619
+		• AR** J*
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0881 0243 58619
+		• AR** J*
 
 *さ PULSA*
 
